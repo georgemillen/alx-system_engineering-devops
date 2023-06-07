@@ -1,1 +1,1 @@
-task 0 script
+task 1
