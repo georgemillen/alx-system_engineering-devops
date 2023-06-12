@@ -1,1 +1,1 @@
- confused smiley
+Duplicate last line
