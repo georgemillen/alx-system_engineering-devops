@@ -1,1 +1,1 @@
-. Letters only please
+ a-z
